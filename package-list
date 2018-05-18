@@ -1,0 +1,6 @@
+com.sobte.cqp.jcq
+com.sobte.cqp.jcq.annotation
+com.sobte.cqp.jcq.entity
+com.sobte.cqp.jcq.event
+com.sobte.cqp.jcq.message
+com.sobte.cqp.jcq.util
