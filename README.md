@@ -8,6 +8,6 @@
 
 ## 给本喵喂过食的人
 
-| Nick       | Money Money Money~  |
-| --------   | :-----------------: |
-| Kigoal     | 100￥               |
+| Nick              | Money Money Money~  |
+| --------          | :-----------------: |
+| Kigoal            | 100￥               |
